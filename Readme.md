@@ -2,7 +2,7 @@
 
 This rep is hold by MoriiHuang, which is basically based on nnUNet, nnsam and MedSAM.
 
-This is sjtu_eiee_lab426's final solution to the MH-SEG Challenge.
+This is sjtu_eiee_lab426's final solution to the MBH-SEG Challenge.
 
 The core contribution is to add TransUNet, SwinsUNet and other basic networks under the framework of nnUNet, and introduce the pipeline of semi-supervised schemes UAMT,AugSeg and iMAS.
 
